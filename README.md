@@ -13,6 +13,10 @@
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<a href="https://github.com/krebyancode/">
+  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />
+</a
+
 <br>
 <br>
 
