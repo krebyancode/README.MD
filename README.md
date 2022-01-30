@@ -15,7 +15,7 @@
 
 <a href="https://app.netlify.com/teams/krebyancode/overview/">
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />
-</a
+</a>
 
 <br>
 <br>
