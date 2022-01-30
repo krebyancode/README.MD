@@ -1,44 +1,17 @@
-### Hi, I'm NAME. 👋🏻 💻
+### Hey there, My name is Ayberk. 👋🏻 💻
 
 
 <hr>
 <br>
 
 
-<a href="https://www.linkedin.com/xxxxxxxxx">
+<a href="https://www.linkedin.com/in/ayberk-türkeli">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://xxxxxxxx.github.io/">
+<a href="https://github.com/krebyancode/">
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-</a>
-
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a>
-  
-<img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
 
 <br>
 <br>
