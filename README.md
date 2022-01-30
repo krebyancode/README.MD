@@ -5,7 +5,7 @@
 <br>
 
 
-<a href="https://www.linkedin.com/in/ayberk-türkeli">
+<a href="https://www.linkedin.com/in/ayberk-türkeli/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -13,7 +13,7 @@
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://github.com/krebyancode/">
+<a href="https://app.netlify.com/teams/krebyancode/overview/">
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />
 </a
 
