@@ -26,7 +26,7 @@ I am a Front-End Developer, who is available and so eager to prove himself in al
 
 - 👨🏽‍💻 I'm currently working on Front-end Development;
 - 🌱 I'm currently learning Everything; 
-- 👯 I'm looking for a dream team to make great things  ;
+- 👯 I'm looking for a dream team to make great things together;
 - 💬 Ask me about: JavaScript, Python and Web development;
 - ⚡️ Hobbies: lots of hobbies;
 - 📫 How to contact me: ayberkturkeli@yahoo.com
