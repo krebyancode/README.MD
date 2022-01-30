@@ -20,17 +20,16 @@
 <br>
 <br>
 
- I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQL, PostgreSQL React, Javascript, AWS, DevOps etc.
+I am a Front-End Developer, who is available and so eager to prove himself in all aspects of front-end web development. Mainly advancing in web-specific projects by using his deep knowledge and skills at HTML, CSS, SASS, Bootstrap, JavaScript, React, and other front-end tools. Highly focused on virtual DOM, RESTful API's, object-oriented modelling, algorithms and data structures, based on programming languages which are Python and JavaScript, and aiming to strengthen my capabilities at React.js.
  
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working on  Backend Development;
+- 👨🏽‍💻 I'm currently working on Front-end Development;
 - 🌱 I'm currently learning Everything; 
-- 👯 I'm looking to collaborate.... ;
-- 🤔 I'm looking for help with statistics ;
-- 💬 Ask me about: Python and Web development;
-- ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: [Contact](email)
+- 👯 I'm looking for a dream team to make great things  ;
+- 💬 Ask me about: JavaScript, Python and Web development;
+- ⚡️ Hobbies: lots of hobbies;
+- 📫 How to contact me: ayberkturkeli@yahoo.com
 
  
 <br />
