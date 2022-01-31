@@ -20,7 +20,7 @@
 <br>
 <br>
 
-I am a Front-End Developer, who is available and so eager to prove himself in all aspects of front-end web development. Mainly advancing in web-specific projects by using his deep knowledge and skills at HTML, CSS, SASS, Bootstrap, JavaScript, React, and other required front-end tools. Highly focused on Virtual DOM, RESTful API's, object-oriented modelling, algorithms and data structures, based on programming languages which are Python and JavaScript, and aiming to strengthen his capabilities at React.js.
+I am a Front-End Developer, who is available and so eager to prove myself in all aspects of front-end web development. Mainly advancing in web-specific projects by using my deep knowledge and skills at HTML, CSS, SASS, Bootstrap, JavaScript, React, and other required front-end tools. Highly focused on Virtual DOM, RESTful API's, object-oriented modelling, algorithms and data structures, based on programming languages which are Python and JavaScript, and aiming to strengthen my capabilities at React.js.
  
 **Personal Stuffs:**
 
